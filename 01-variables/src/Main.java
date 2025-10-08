@@ -1,15 +1,49 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+        // ❎ variable = A reusable container for a value.
+        //                          A variable behaves as if it was the value it contains.
+
+        // 🟥 Primitive = simple value stored directly in memory (stack)
+        // 🟦 Reference = memory address (stack) that points to the (heap)
+
+        // 🟥 Primitive      vs      🟦 Reference
+        //    ---------                ---------
+        //    int                       string
+        //    double                    array
+        //    char                      object
+        //    boolean
+
+        int age = 21;
+        int year = 2025;
+        int quantity = 1;
+
+        double price = 19.99;
+        double gpa = 3.5;
+        double temperature = -12.5;
+
+        char grade = 'A';
+        char symbol = '!';
+        char currency = '$';
+
+        boolean isStudent = true;
+        boolean forSale = false;
+        boolean isOnline = true;
+
+        String name = "Anass";
+        String food = "pizza";
+        String email = "fake123@gmail.com";
+        String car = "Mustang";
+        String color = "red";
+
+        System.out.println("Your choice is a " + color + " " + year + " " + car);
+        System.out.println("The price is: " + currency + price);
+
+        if(forSale){
+            System.out.println("There is a " + car + " for sale");
+        }
+        else{
+            System.out.println("The " + car + " is not for sale");
         }
     }
 }

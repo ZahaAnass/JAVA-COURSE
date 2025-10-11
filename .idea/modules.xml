@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06-If-Statement/06-If-Statement.iml" filepath="$PROJECT_DIR$/06-If-Statement/06-If-Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-random-number/07-random-number.iml" filepath="$PROJECT_DIR$/07-random-number/07-random-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-math-class/08-math-class.iml" filepath="$PROJECT_DIR$/08-math-class/08-math-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-printf/09-printf.iml" filepath="$PROJECT_DIR$/09-printf/09-printf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/03-mad-libs-game/03-mad-libs-game.iml" filepath="$PROJECT_DIR$/03-mad-libs-game/03-mad-libs-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-arithmetic--operator/04-arithmetic--operator.iml" filepath="$PROJECT_DIR$/04-arithmetic--operator/04-arithmetic--operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-shopping-card/05-shopping-card.iml" filepath="$PROJECT_DIR$/05-shopping-card/05-shopping-card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-If-Statement/06-If-Statement.iml" filepath="$PROJECT_DIR$/06-If-Statement/06-If-Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-random-number/07-random-number.iml" filepath="$PROJECT_DIR$/07-random-number/07-random-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

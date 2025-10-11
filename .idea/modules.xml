@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-variables/01-variables.iml" filepath="$PROJECT_DIR$/01-variables/01-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-user-input/02-user-input.iml" filepath="$PROJECT_DIR$/02-user-input/02-user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-mad-libs-game/03-mad-libs-game.iml" filepath="$PROJECT_DIR$/03-mad-libs-game/03-mad-libs-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-arithmetic--operator/04-arithmetic--operator.iml" filepath="$PROJECT_DIR$/04-arithmetic--operator/04-arithmetic--operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-shopping-card/05-shopping-card.iml" filepath="$PROJECT_DIR$/05-shopping-card/05-shopping-card.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

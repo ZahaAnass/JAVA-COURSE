@@ -13,6 +13,24 @@
       <module fileurl="file://$PROJECT_DIR$/09-printf/09-printf.iml" filepath="$PROJECT_DIR$/09-printf/09-printf.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-compound-interest-calculator/10-compound-interest-calculator.iml" filepath="$PROJECT_DIR$/10-compound-interest-calculator/10-compound-interest-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-nested-if-statements/11-nested-if-statements.iml" filepath="$PROJECT_DIR$/11-nested-if-statements/11-nested-if-statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-string-method/12-string-method.iml" filepath="$PROJECT_DIR$/12-string-method/12-string-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-substrings/13-substrings.iml" filepath="$PROJECT_DIR$/13-substrings/13-substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-weigth-converter/14-weigth-converter.iml" filepath="$PROJECT_DIR$/14-weigth-converter/14-weigth-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-ternary-operator/15-ternary-operator.iml" filepath="$PROJECT_DIR$/15-ternary-operator/15-ternary-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-temperator-converter/16-temperator-converter.iml" filepath="$PROJECT_DIR$/16-temperator-converter/16-temperator-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-enhanced-switches/17-enhanced-switches.iml" filepath="$PROJECT_DIR$/17-enhanced-switches/17-enhanced-switches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-calculator/18-calculator.iml" filepath="$PROJECT_DIR$/18-calculator/18-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-logical-operator/19-logical-operator.iml" filepath="$PROJECT_DIR$/19-logical-operator/19-logical-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-while-loops/20-while-loops.iml" filepath="$PROJECT_DIR$/20-while-loops/20-while-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-number-guessing-game/21-number-guessing-game.iml" filepath="$PROJECT_DIR$/21-number-guessing-game/21-number-guessing-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-for-loops/22-for-loops.iml" filepath="$PROJECT_DIR$/22-for-loops/22-for-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-break-continue/23-break-continue.iml" filepath="$PROJECT_DIR$/23-break-continue/23-break-continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-nested-loops/24-nested-loops.iml" filepath="$PROJECT_DIR$/24-nested-loops/24-nested-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-methods/25-methods.iml" filepath="$PROJECT_DIR$/25-methods/25-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-overloaded-methods/26-overloaded-methods.iml" filepath="$PROJECT_DIR$/26-overloaded-methods/26-overloaded-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-variable-scope/27-variable-scope.iml" filepath="$PROJECT_DIR$/27-variable-scope/27-variable-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-banking-program/28-banking-program.iml" filepath="$PROJECT_DIR$/28-banking-program/28-banking-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-dice-roller/29-dice-roller.iml" filepath="$PROJECT_DIR$/29-dice-roller/29-dice-roller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

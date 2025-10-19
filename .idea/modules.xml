@@ -31,6 +31,15 @@
       <module fileurl="file://$PROJECT_DIR$/27-variable-scope/27-variable-scope.iml" filepath="$PROJECT_DIR$/27-variable-scope/27-variable-scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/28-banking-program/28-banking-program.iml" filepath="$PROJECT_DIR$/28-banking-program/28-banking-program.iml" />
       <module fileurl="file://$PROJECT_DIR$/29-dice-roller/29-dice-roller.iml" filepath="$PROJECT_DIR$/29-dice-roller/29-dice-roller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-arrays/30-arrays.iml" filepath="$PROJECT_DIR$/30-arrays/30-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-enter-user-input-into-array/31-enter-user-input-into-array.iml" filepath="$PROJECT_DIR$/31-enter-user-input-into-array/31-enter-user-input-into-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-search-an-array/32-search-an-array.iml" filepath="$PROJECT_DIR$/32-search-an-array/32-search-an-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-varargs/33-varargs.iml" filepath="$PROJECT_DIR$/33-varargs/33-varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-2d-arrays/34-2d-arrays.iml" filepath="$PROJECT_DIR$/34-2d-arrays/34-2d-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-quiz-game/35-quiz-game.iml" filepath="$PROJECT_DIR$/35-quiz-game/35-quiz-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-ROCK-PAPER-SCISSORS/36-ROCK-PAPER-SCISSORS.iml" filepath="$PROJECT_DIR$/36-ROCK-PAPER-SCISSORS/36-ROCK-PAPER-SCISSORS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-slot-machine/37-slot-machine.iml" filepath="$PROJECT_DIR$/37-slot-machine/37-slot-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/38-oop/38-oop.iml" filepath="$PROJECT_DIR$/38-oop/38-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

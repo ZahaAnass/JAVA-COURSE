@@ -40,6 +40,8 @@
       <module fileurl="file://$PROJECT_DIR$/36-ROCK-PAPER-SCISSORS/36-ROCK-PAPER-SCISSORS.iml" filepath="$PROJECT_DIR$/36-ROCK-PAPER-SCISSORS/36-ROCK-PAPER-SCISSORS.iml" />
       <module fileurl="file://$PROJECT_DIR$/37-slot-machine/37-slot-machine.iml" filepath="$PROJECT_DIR$/37-slot-machine/37-slot-machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/38-oop/38-oop.iml" filepath="$PROJECT_DIR$/38-oop/38-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39-constructors/39-constructors.iml" filepath="$PROJECT_DIR$/39-constructors/39-constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40-overloaded-constructurs/40-overloaded-constructurs.iml" filepath="$PROJECT_DIR$/40-overloaded-constructurs/40-overloaded-constructurs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

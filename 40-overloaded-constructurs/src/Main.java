@@ -27,6 +27,5 @@ public class Main {
         System.out.println(user4.email);
         System.out.println(user4.age);
 
-
     }
 }

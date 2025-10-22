@@ -1,13 +1,15 @@
 public class Car {
 
-    String brand;
     String model;
-    int year;
+    String color;
 
-    public Car(String brand, String model, int year) {
-        this.brand = brand;
+    public Car(String model, String color) {
         this.model = model;
-        this.year = year;
+        this.color = color;
+    }
+
+    void drive() {
+        System.out.println("You drive the " + color + " " + model);
     }
 
 }

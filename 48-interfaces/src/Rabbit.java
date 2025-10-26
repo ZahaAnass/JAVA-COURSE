@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class Rabbit implements Prey {
 
-public class Rabbit {
+    @Override
+    public void flee() {
+        System.out.println("*The rabbit is fleeing!*");
+    }
 }

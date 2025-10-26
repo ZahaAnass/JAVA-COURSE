@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class Bike extends Vehicle {
 
-public class Bike {
+    @Override
+    void go() {
+        System.out.println("The bike is pedaling");
+    }
 }

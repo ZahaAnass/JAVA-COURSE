@@ -1,4 +1,9 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -6,7 +11,23 @@ public class Main {
 
         // JAVA HANGMAN GAME
 
-        String word = "pizza";
+        String filePath = "words.txt";
+        ArrayList<String> words = new ArrayList<>();
+
+        try(BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while((line = reader.readLine()) != null) {
+                words.add(line.trim());
+            }
+        }catch (FileNotFoundException e){
+            System.out.println("File not found");
+        }catch (IOException e) {
+            System.out.println("Somthing went wrong");
+        }
+
+        Random random = new Random();
+
+        String word = words.get(random.nextInt(words.size())).toLowerCase();
 
         Scanner scanner = new Scanner(System.in);
         ArrayList<Character> wordState = new ArrayList<>();
@@ -56,9 +77,9 @@ public class Main {
 
         if(wrongGuesses >= 6) {
             System.out.println(getHangmanArt(wrongGuesses));
-            System.out.println("Game Over! The word was: " + word);
+            System.out.println("Game Over! \nThe word was: " + word);
         } else {
-            System.out.println("YOU WIN! You've guessed the word: " + word);
+            System.out.println("YOU WIN! \nYou've guessed the word: " + word);
         }
 
         scanner.close();

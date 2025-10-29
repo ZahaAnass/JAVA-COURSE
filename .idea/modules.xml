@@ -42,6 +42,25 @@
       <module fileurl="file://$PROJECT_DIR$/38-oop/38-oop.iml" filepath="$PROJECT_DIR$/38-oop/38-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/39-constructors/39-constructors.iml" filepath="$PROJECT_DIR$/39-constructors/39-constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-overloaded-constructurs/40-overloaded-constructurs.iml" filepath="$PROJECT_DIR$/40-overloaded-constructurs/40-overloaded-constructurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41-array-of-objects/41-array-of-objects.iml" filepath="$PROJECT_DIR$/41-array-of-objects/41-array-of-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42-static-keyword/42-static-keyword.iml" filepath="$PROJECT_DIR$/42-static-keyword/42-static-keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43-inheritance/43-inheritance.iml" filepath="$PROJECT_DIR$/43-inheritance/43-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44-super-keyword/44-super-keyword.iml" filepath="$PROJECT_DIR$/44-super-keyword/44-super-keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-method-overriding/45-method-overriding.iml" filepath="$PROJECT_DIR$/45-method-overriding/45-method-overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-toString/46-toString.iml" filepath="$PROJECT_DIR$/46-toString/46-toString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-abstraction/47-abstraction.iml" filepath="$PROJECT_DIR$/47-abstraction/47-abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/48-interfaces/48-interfaces.iml" filepath="$PROJECT_DIR$/48-interfaces/48-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-polymorphism/49-polymorphism.iml" filepath="$PROJECT_DIR$/49-polymorphism/49-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-run-time-polymorphism/50-run-time-polymorphism.iml" filepath="$PROJECT_DIR$/50-run-time-polymorphism/50-run-time-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51-getters-setters/51-getters-setters.iml" filepath="$PROJECT_DIR$/51-getters-setters/51-getters-setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52-aggregation/52-aggregation.iml" filepath="$PROJECT_DIR$/52-aggregation/52-aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53-composition/53-composition.iml" filepath="$PROJECT_DIR$/53-composition/53-composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54-wrapper-classes/54-wrapper-classes.iml" filepath="$PROJECT_DIR$/54-wrapper-classes/54-wrapper-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55-arraylists/55-arraylists.iml" filepath="$PROJECT_DIR$/55-arraylists/55-arraylists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-exeption-handling/56-exeption-handling.iml" filepath="$PROJECT_DIR$/56-exeption-handling/56-exeption-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-write-files/57-write-files.iml" filepath="$PROJECT_DIR$/57-write-files/57-write-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58-read-files/58-read-files.iml" filepath="$PROJECT_DIR$/58-read-files/58-read-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59-music-player/59-music-player.iml" filepath="$PROJECT_DIR$/59-music-player/59-music-player.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
     </modules>
   </component>

@@ -31,3 +31,4 @@ bin/
 
 ### Project ###
 /59-music-player/album/*
+!/59-music-player/album/README.md

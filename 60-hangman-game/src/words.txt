@@ -1,0 +1,7 @@
+apple
+orange
+banana
+coconut
+carrot
+tomato
+potato

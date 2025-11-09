@@ -26,7 +26,5 @@ public class Main {
             System.out.println("Invalid day entered.");
         }
 
-
-
     }
 }
